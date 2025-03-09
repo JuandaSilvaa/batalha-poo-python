@@ -21,13 +21,13 @@ Este projeto foi desenvolvido como parte do curso de Programação Orientada a O
 2. Clone este repositório executando o seguinte comando no terminal:
 
    ```bash
-   git clone 
+   git clone https://github.com/JuandaSilvaa/batalha-poo-python.git
    ```
 
 3. Navegue até a pasta do projeto:
 
    ```bash
-   cd 
+   cd batalha-poo-python
    ```
 
 4. Execute o seguinte comando para iniciar o jogo:
